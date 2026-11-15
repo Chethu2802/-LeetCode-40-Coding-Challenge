@@ -1,1 +1,1 @@
-# -LeetCode-40-Coding-Challenge
+# LeetCode-40-Coding-Challenge
